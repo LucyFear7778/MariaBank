@@ -1,3 +1,0 @@
-### One line installation 
-```bash
-pkg update && pkg upgrade -y && pkg install git php sqlite -y && git clone https://github.com && cd MariaBank && chmod +x SadMaria_Lab_V36.sh && ./SadMaria_Lab_V36.sh
