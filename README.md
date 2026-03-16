@@ -37,9 +37,9 @@ This lab is intentionally vulnerable for your training:
 
 ### 🛠️ INSTALLATION & RUN
 1. Copy the script to your
-2. pkg update && pkg upgrade -y && pkg install git php sqlite -y && git clone https://github.com && cd MariaBank && chmod +x SadMaria_Lab_V36.sh && ./SadMaria_Lab_V36.sh
+2. pkg update && pkg upgrade -y && pkg install git php sqlite -y && git clone https://github.com/LucyFear7778/MariaBank.git  && cd MariaBank && chmod +x SadMaria_Lab_V36.sh && ./SadMaria_Lab_V36.sh
 
-## 3. Go to your Browser andb type http://localhost:8080
+##  Go to your Browser and type http://localhost:8080
    
 
 *"Stay Sad, Stay Secure."* – *SadFriends*
