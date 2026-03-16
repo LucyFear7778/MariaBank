@@ -35,9 +35,9 @@ This lab is intentionally vulnerable for your training:
 - *Deficiency:* Public display of user MD5 hashes and roles.
 ### - *Exploit:* Practice MD5 hash cracking and rainbow table attacks.
 
-### 🛠️ INSTALLATION & RUN
-1. Copy the script to your
-2. pkg update && pkg upgrade -y && pkg install git php sqlite -y && git clone https://github.com/LucyFear7778/MariaBank.git  && cd MariaBank && chmod +x SadMaria_Lab_V36.sh && ./SadMaria_Lab_V36.sh
+### 🛠️ INSTALLATION & RUN 
+# Copy the script to your
+pkg update && pkg upgrade -y && pkg install git php sqlite -y && git clone https://github.com/LucyFear7778/MariaBank.git  && cd MariaBank && chmod +x SadMaria_Lab_V36.sh && ./SadMaria_Lab_V36.sh
 
 ##  Go to your Browser and type http://localhost:8080
    
